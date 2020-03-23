@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.jrxml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -13,12 +13,12 @@
     <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.spec.js</mask>
-    <mask>*.jrxml</mask>
     <mask>*.sql</mask>
     <mask>*.json</mask>
     <mask>*.yml</mask>
     <mask>*Test.java</mask>
     <mask>*Controller.java</mask>
     <mask>*.java</mask>
+    <mask>*.jrxml</mask>
   </component>
 </application>
