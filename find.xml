@@ -20,12 +20,12 @@
     <mask>*.png</mask>
     <mask>*.js</mask>
     <mask>*Commands.java</mask>
-    <mask>*.jrxml</mask>
     <mask>*.json</mask>
     <mask>*.java)</mask>
     <mask>*Controller.java</mask>
     <mask>*Test.java</mask>
     <mask>*.sql</mask>
+    <mask>*.jrxml</mask>
     <mask>*.java</mask>
     <mask>*.java</mask>
   </component>
