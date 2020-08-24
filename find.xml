@@ -27,8 +27,8 @@
     <mask>*Controller.java</mask>
     <mask>*Test.java</mask>
     <mask>*.sql</mask>
-    <mask>*.jrxml</mask>
     <mask>*JourneyTest.java</mask>
+    <mask>*.jrxml</mask>
     <mask>*.java</mask>
     <mask>*.java</mask>
   </component>
