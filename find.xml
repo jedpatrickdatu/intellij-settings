@@ -15,18 +15,20 @@
     <mask>*spec.js</mask>
     <mask>*.scss</mask>
     <mask>*.spec.js</mask>
-    <mask>*.json</mask>
     <mask>*.yml</mask>
-    <mask>*Controller.java</mask>
     <mask>*.jar</mask>
     <mask>*.xml</mask>
     <mask>*.jsl</mask>
     <mask>*.png</mask>
     <mask>*.js</mask>
     <mask>*Commands.java</mask>
-    <mask>*.sql</mask>
-    <mask>*.jrxml</mask>
+    <mask>*.json</mask>
+    <mask>*.java)</mask>
+    <mask>*Controller.java</mask>
     <mask>*Test.java</mask>
+    <mask>*.sql</mask>
+    <mask>*JourneyTest.java</mask>
+    <mask>*.jrxml</mask>
     <mask>*.java</mask>
     <mask>*.java</mask>
   </component>
