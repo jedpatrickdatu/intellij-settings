@@ -21,7 +21,6 @@
     <mask>*.jsl</mask>
     <mask>*.png</mask>
     <mask>*.js</mask>
-    <mask>*Commands.java</mask>
     <mask>*.java)</mask>
     <mask>*Controller.java</mask>
     <mask>*Test.java</mask>
@@ -30,6 +29,7 @@
     <mask>*.json</mask>
     <mask>*.java</mask>
     <mask>*.java</mask>
+    <mask>*Commands.java</mask>
     <mask>*.sql</mask>
   </component>
 </application>
