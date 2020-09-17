@@ -28,8 +28,8 @@
     <mask>*.json</mask>
     <mask>*Commands.java</mask>
     <mask>*.sql</mask>
-    <mask>*.java</mask>
     <mask>*JourneyTest.java</mask>
+    <mask>*.java</mask>
     <mask>*.java</mask>
   </component>
 </application>
