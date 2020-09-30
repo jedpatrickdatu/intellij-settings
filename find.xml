@@ -7,7 +7,6 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -21,14 +20,14 @@
     <mask>*.jsl</mask>
     <mask>*.png</mask>
     <mask>*.js</mask>
-    <mask>*Commands.java</mask>
-    <mask>*.json</mask>
     <mask>*.java)</mask>
     <mask>*Controller.java</mask>
     <mask>*Test.java</mask>
-    <mask>*.sql</mask>
-    <mask>*JourneyTest.java</mask>
     <mask>*.jrxml</mask>
+    <mask>*.json</mask>
+    <mask>*Commands.java</mask>
+    <mask>*JourneyTest.java</mask>
+    <mask>*.sql</mask>
     <mask>*.java</mask>
     <mask>*.java</mask>
   </component>
