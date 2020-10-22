@@ -24,12 +24,12 @@
     <mask>*.java)</mask>
     <mask>*Controller.java</mask>
     <mask>*Test.java</mask>
-    <mask>*.jrxml</mask>
     <mask>*.json</mask>
     <mask>*Commands.java</mask>
     <mask>*JourneyTest.java</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
+    <mask>*.jrxml</mask>
     <mask>*.java</mask>
   </component>
 </application>
