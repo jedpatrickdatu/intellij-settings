@@ -26,9 +26,9 @@
     <mask>*Commands.java</mask>
     <mask>*JourneyTest.java</mask>
     <mask>*.sql</mask>
-    <mask>*.java</mask>
     <mask>*.jrxml</mask>
     <mask>*.scala</mask>
+    <mask>*.java</mask>
     <mask>*.java</mask>
   </component>
 </application>
