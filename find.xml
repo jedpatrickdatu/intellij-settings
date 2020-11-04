@@ -27,8 +27,8 @@
     <mask>*JourneyTest.java</mask>
     <mask>*.sql</mask>
     <mask>*.scala</mask>
-    <mask>*.java</mask>
     <mask>*.jrxml</mask>
+    <mask>*.java</mask>
     <mask>*.java</mask>
   </component>
 </application>
