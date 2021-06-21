@@ -27,8 +27,8 @@
     <mask>*Controller.java</mask>
     <mask>*.json</mask>
     <mask>*.jrxml</mask>
-    <mask>*.java</mask>
     <mask>*Test.java</mask>
+    <mask>*.java</mask>
     <mask>*.java</mask>
   </component>
 </application>
